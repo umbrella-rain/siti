@@ -1,0 +1,246 @@
+.wrapper{
+    min-height: 100%;
+    overflow: hidden;
+    width: 100%;
+}
+.container{
+    max-width: 1415px;
+    margin: 0 auto;
+    
+    display: flex;
+}
+.item1{
+    margin: 0 auto;
+}
+.text1{
+    display: flex;
+}
+.nav-menu1{
+    padding: 10px;
+    margin: 10px;
+}
+
+.item2{
+    margin: 0 auto;
+}
+
+.text2{
+    display: flex;
+}
+.nav-menu3 {
+    display: flex;
+}
+.img1{
+    background-image: url(../img/logo.jpg);
+    width: 40px;
+    height: 40px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.img2{
+    background-image: url(../img/korzina.jpg);
+    width: 40px;
+    height: 40px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.nav-menu2{
+    padding: 10px;
+    margin: 10px;
+}
+.container2{
+    max-width: 100%;
+    background-color: #FFAF1E;
+    height: 60px;
+}
+.container3 {
+    margin: 0 auto;
+    max-width: 1415px;
+    height: 50px;
+    
+}
+.container4{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+}
+.nav-menu4{
+    border: 1px solid white;
+    background-color: white;
+    width: 80px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 15px;
+}
+.nav-menu5{
+    width: 661px;
+    background-color: #fff;
+}
+.nav-menu6{
+    border: 1px solid white;
+    background-color: white;
+    width: 80px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 15px;
+}
+.container5{
+    max-width: 100%;
+    max-height: 100%;
+}
+.container6{
+    width: 1415px;
+    height: 800px;
+    margin: 0 auto;
+    
+    display: flex;
+}
+.container7{
+
+}
+.left-button{
+    width: 257px;
+    height: 38px;
+    border: 1px solid black;
+}
+.container8{
+
+}
+.container9{
+    display: flex;
+}
+.container10{
+    width: 100%;
+    height: 40px;
+    
+    display: flex;
+    justify-content: space-between;
+}
+.bothcontainer{
+    width: 100%;
+}
+.container11{
+    display: flex;
+    padding: 5px;
+    margin: 5px;
+    word-spacing: 15px;
+}
+.text5{
+    margin: 15px;
+}
+.text16{
+    margin-left: 45px;
+    margin: 15px;
+}
+.text17{
+    margin-left: 45px;
+    margin: 15px;
+}
+.text6{
+    margin: 15px;
+}       
+.text7{
+    margin-left: 50px;
+    box-sizing: border-box;
+    background-color: orange;
+    border: 1px solid orange;
+    width: 80px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text0{
+    box-sizing: border-box;
+    border: 1px solid orange;
+    width: 80px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text8{
+    border: 1px solid orange;
+    width: 80px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 25px;
+}
+.text9{
+    border: 1px solid orange;
+    background-color: orange;
+    width: 80px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text15{
+    border: 1px solid orange;
+    width: 80px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container12{
+    display: flex;
+    padding: 5px;
+    margin: 5px;
+}
+.container13{
+    width: 100%;
+}
+.container14{
+    display: flex;
+    margin: 15px;
+}
+.text11{
+    margin-left: 5px;
+}
+.container15 {
+    width: 100%;
+}
+.container16{
+    display: flex;
+    margin: 15px;
+    justify-content: space-between;
+}
+.block1{
+    background-image: url(../img/stoika.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 140px;
+    height: 140px;
+}
+.block2{
+    margin: -15px;
+}
+.block3{
+    margin: 15px;
+}
+.block4{
+    border: 1px solid orange;
+    background-color: orange;
+    width: 80px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+}
+.container18{
+    margin: 15px;
+    display: flex;
+    justify-content: space-between;
+}
